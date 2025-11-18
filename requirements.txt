@@ -1,0 +1,4 @@
+Flask==2.3.3
+PyQt5==5.15.9
+PyQtWebEngine==5.15.5
+rapidfuzz==3.5.2
